@@ -131,6 +131,8 @@ button span {
     position: absolute;
     top: 0;
     left: 0;
+    border: none;
+    outline: none;
     background: rgb(194, 123, 123);
     z-index: -1;
     transition: 0.7s;
